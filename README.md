@@ -2,7 +2,7 @@
 - 👀 I’m interested in agile methods
 - 🌱 I’m currently learning TDD
 - 💞️ I’m looking to collaborate on testing
-- 📫 How to reach me srosales@cdgumazman.tecnm.mx
+- 📫 How to reach me srosales@cdguzman.tecnm.mx
 - 😄 Pronouns: 
 - ⚡ Fun fact: dancing
 
